@@ -1,13 +1,10 @@
 package com.siemens.example.display;
-
 import java.awt.Graphics;
 import java.io.InputStream;
 import java.util.Enumeration;
 import java.util.Properties;
-
 import javax.swing.JComponent;
 import javax.swing.JFrame;
-
 import static java.awt.SystemColor.window;
 
 
